@@ -15,14 +15,12 @@ export default function Home() {
   const [posts, setPosts] = useState([]);
   const [status, setStatus] = useRecoilState(statusAtom);
   useEffect(() => {
-    console.log(status)
     if (status.currentStatus === "Connected") {
       Web3Service.getLatestPosts(page).then((post) => {
         setPosts(post);
-        console.log(post);
       });
     }
-  }, []);
+  }, [status]);
   return (
     <div>
       <Head>
