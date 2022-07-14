@@ -1,5 +1,5 @@
 # KueSocial: A decentralized global image board
-Built as a part of Polygon Fellowship 2022
+Built during Polygon Fellowship 2022
 
 ## What is KueSocial?
 
