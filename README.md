@@ -1,12 +1,6 @@
-# Polygon Fellowship Assignments
+# KueSocial: A decentralized global image board
+Built as a part of Polygon Fellowship 2022
 
-Seperate branches have been created for each week's work.
+## What is KueSocial?
 
-* Week 1 ✅
-* Week 2 ✅
-* Week 3
-* Week 4
-* Week 5
-* Week 6
-* Week 7
-* Week 8
+KueSocial allows users to share images to the entire globe in a decentralized manner. KueSocial will show 10 latest images shared on the platform.
